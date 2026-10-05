@@ -1,16 +1,74 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Suparna2005/Suparna2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Suparna 👋
 
-Here are some ideas to get you started:
+### Turning ideas into useful applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Development • AI Projects • Technical Documentation
+
+[University Event Platform](https://github.com/Suparna2005/universityeventplatform)
+ ·
+[IronForge AI](https://github.com/Suparna2005/FITTRACKER)
+ ·
+[All Projects](https://github.com/Suparna2005?tab=repositories)
+
+</div>
+
+---
+
+## ✨ A little about me
+
+I enjoy building practical applications, exploring AI,
+and explaining technical ideas through clear documentation.
+
+- 🎓 Working on a University Event Management & Engagement Platform.
+- 🏋️ Exploring AI-powered fitness applications with IronForge AI.
+- 📝 Preparing educational documentation for an AI course.
+- 🌱 Developing my skills in web development and AI integration.
+
+---
+
+## 🛠️ My toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+## 🚀 Featured work
+
+### 🎓 University Event Management & Engagement Platform
+
+A platform for university event management,
+student participation, ticketing, and certificates.
+
+[Explore the project →](https://github.com/Suparna2005/universityeventplatform)
+
+### 🏋️ IronForge AI
+
+A fitness application exploring computer vision,
+workout tracking, and AI assistance.
+
+[Explore the project →](https://github.com/Suparna2005/FITTRACKER)
+
+---
+
+## 📝 Beyond code
+
+I also work on AI course documentation, organizing
+technical concepts into clear and accessible learning material.
+
+---
+
+<div align="center">
+
+### Learn. Build. Improve.
+
+Thanks for visiting my profile! ✨
+
+</div>
