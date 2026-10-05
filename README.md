@@ -21,9 +21,9 @@ Web Development • AI Projects • Technical Documentation
 I enjoy building practical applications, exploring AI,
 and explaining technical ideas through clear documentation.
 
-- 🎓 Working on a University Event Management & Engagement Platform.
-- 🏋️ Exploring AI-powered fitness applications with IronForge AI.
-- 📝 Preparing educational documentation for an AI course.
+- 🎓 Working on Web Development.
+- 🏋️ Exploring AI-power.
+- 📝 Passionate about AI Research and Development.
 - 🌱 Developing my skills in web development and AI integration.
 
 ---
