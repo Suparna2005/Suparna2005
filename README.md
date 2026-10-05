@@ -88,16 +88,6 @@ workout tracking, and AI-assisted experiences.
 
 [![View Project](https://img.shields.io/badge/View_IronForge_AI-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suparna2005/FITTRACKER)
 
----
-
-## 📝 Documentation & Learning Content
-
-Alongside development, I work on:
-
-- Project descriptions and technical documentation.
-- AI course content and explanations.
-- Development workflows and implementation guides.
-- Clear presentation of technical concepts.
 
 ---
 
